@@ -2,7 +2,7 @@ mikutter Cookbook
 =================
 mikutter cookbook for chef-solo.
 
-This cookbook makes more easier to start using mikutter!.
+This cookbook makes more easier to start using mikutter!
 
 Requirements
 ------------
