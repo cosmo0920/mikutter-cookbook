@@ -35,7 +35,7 @@ Just include `mikutter` in your node's `run_list`:
     "branch":"master"
   },
   "run_list": [
-    "mikutter"
+    "mikutter::mikutter_git"
   ]
 }
 ```
