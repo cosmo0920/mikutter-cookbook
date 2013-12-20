@@ -21,7 +21,7 @@ Attributes
 Usage
 -----
 
-#### mikutter::default
+#### mikutter::mikutter\_git
 
 Just include `mikutter` in your node's `run_list`:
 
