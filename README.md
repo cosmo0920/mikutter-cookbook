@@ -1,5 +1,8 @@
 mikutter Cookbook
 =================
+
+[![Build Status](https://travis-ci.org/cosmo0920/mikutter-cookbook.png?branch=master)](https://travis-ci.org/cosmo0920/mikutter-cookbook)
+
 mikutter cookbook for chef-solo.
 
 This cookbook makes more easier to start using mikutter!
